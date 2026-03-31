@@ -38,3 +38,4 @@ Compiler: MinGW
 IDE/Editor: Visual Studio Code
 
 ## Output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d851b4e-5abf-4ad7-87e1-89098ecc162c" />
